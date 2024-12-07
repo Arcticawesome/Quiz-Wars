@@ -1,6 +1,6 @@
 # Quiz-Wars
 
-This repository contains the programming for a Quiz-Bowl style buzzer system. 
+This repository contains the programming for a Quiz-Bowl style buzzer system for Arduino UNO. 
 
 The system is set up for two teams of four people. Questions are displayed on the python terminal word by word at a specified, mutable rate. Use keyboards to type in the answer. Remember, interruptions are ALLOWED...
 
